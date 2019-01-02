@@ -1,0 +1,16 @@
+body {
+  /*this makes the div go all the way to the edge*/
+  margin: 0;
+}
+
+.navbar {
+  height: 103px;
+  background-color: #333333;
+  color: whitesmoke;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

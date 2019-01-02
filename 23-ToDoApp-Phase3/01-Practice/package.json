@@ -1,0 +1,21 @@
+{
+  "name": "01-Practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "paul_charles <pcharles71@rocketmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
